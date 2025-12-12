@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="fittools-jvm">
+    <output-path>$PROJECT_DIR$/build/libs</output-path>
+    <root id="archive" name="fittools-jvm.jar">
+      <element id="module-output" name="fittools.jvmMain" />
+    </root>
+  </artifact>
+</component>
